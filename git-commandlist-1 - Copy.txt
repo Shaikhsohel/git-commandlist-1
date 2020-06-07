@@ -1,0 +1,5 @@
+git status - print the status of git repository
+git init- inicialte git
+git config
+git add
+git log
